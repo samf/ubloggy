@@ -3,7 +3,16 @@
         <title>samf and the blog</title>
         <link>samf.efmrl.com/</link>
         <description>samf and the blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Apr 2021 08:25:36 -0600</lastBuildDate>
             <atom:link href="samf.efmrl.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>First_post</title>
+    <link>samf.efmrl.com/posts/first_post/</link>
+    <pubDate>Sun, 04 Apr 2021 08:25:36 -0600</pubDate>
+    <author>Author</author>
+    <guid>samf.efmrl.com/posts/first_post/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/samf.efmrl.com/ou-helmet.jpeg" referrerpolicy="no-referrer">
+            </div>]]></description>
+</item></channel>
 </rss>
